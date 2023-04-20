@@ -1,6 +1,5 @@
-import random
-import math  # cos() for Rastrigin
 import copy  # array-copying convenience
+import random
 import sys
 import time
 
